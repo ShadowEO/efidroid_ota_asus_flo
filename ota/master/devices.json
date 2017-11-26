@@ -1,0 +1,36 @@
+{
+    "fairphone/fp2": "fairphone/fp2",
+
+    "motorola/condor_umts": "motorola/condor",
+    "motorola/condor_umtsds": "motorola/condor",
+    "motorola/peregrine": "motorola/peregrine",
+    "motorola/peregrine_cdma": "motorola/peregrine",
+    "motorola/peregrine_umts": "motorola/peregrine",
+    "motorola/thea": "motorola/thea",
+
+    "nokia/ara": "nokia/ara",
+
+    "oneplus/a0001": "oneplus/bacon",
+    "oneplus/bacon": "oneplus/bacon",
+
+    "pantech/ef63": "pantech/ef63",
+    "pantech/ef63s": "pantech/ef63",
+    "pantech/ef63k": "pantech/ef63",
+    "pantech/ef63l": "pantech/ef63",
+
+    "samsung/trlte": "samsung/trlte",
+    "samsung/trltecan": "samsung/trlte",
+    "samsung/trltedt": "samsung/trlte",
+    "samsung/trlteduoszh": "samsung/trlte",
+    "samsung/trltespr": "samsung/trlte",
+    "samsung/trltetmo": "samsung/trlte",
+    "samsung/trlteusc": "samsung/trlte",
+    "samsung/trltevzw": "samsung/trlte",
+    "samsung/trltexx": "samsung/trlte",
+
+    "xiaomi/aries": "xiaomi/aries",
+    "xiaomi/cancro": "xiaomi/cancro",
+    "xiaomi/libra": "xiaomi/libra",
+
+    "asus/flo": "asus/flo"
+}
